@@ -1,0 +1,583 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Extensions For CF7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-01 10:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: cf7-extensions"
+
+#: includes/class.cf7-extensions.php:122
+#, php-format
+msgid ""
+"%1$sExtensions For CF7 %2$s requires %1$s\"Contact Form 7\"%2$s plugin to be "
+"active. Please activate Contact Form 7 to continue."
+msgstr ""
+
+#: includes/class.cf7-extensions.php:129
+#, php-format
+msgid ""
+"%1$sExtensions For CF7.%2$s requires %1$s\"Contact Form 7\"%2$s plugin to be "
+"installed and activated. Please install Contact Form 7 to continue."
+msgstr ""
+
+#: admin/include/class.cf7-conditional.php:106
+msgid "-- Select field --"
+msgstr ""
+
+#: admin/include/class.cf7-conditional.php:91
+msgid "-- Select group --"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:38
+msgid "---select---"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:46
+msgid "Acceptance Field"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:74
+msgid "Acceptance Field: "
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:192
+#: admin/include/class.cf7-extensions-recomendation.php:255
+msgid "Activate"
+msgstr ""
+
+#: includes/class.cf7-extensions.php:123
+msgid "Activate Contact Form 7"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:203
+#: admin/include/class.cf7-extensions-recomendation.php:266
+msgid "Activated"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:41
+msgid "Activating.."
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:42
+msgid "Active"
+msgstr ""
+
+#: admin/template/conditional-field-layout.php:31
+msgid "Add Condition"
+msgstr ""
+
+#: admin/template/conditional-field-layout.php:38
+msgid "Add New Condition"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:30
+msgid "Advanced Telephone"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:73
+msgid "Advanced Telephone: "
+msgstr ""
+
+#: admin/template/pro-feature-list.php:22
+msgid "Already Submitted"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:70
+msgid "Already Submitted: "
+msgstr ""
+
+#: admin/template/conditional-setting.php:21
+msgid "Animation"
+msgstr ""
+
+#: admin/template/conditional-setting.php:30
+msgid "Animation In Time"
+msgstr ""
+
+#: admin/template/conditional-setting.php:37
+msgid "Animation Out Time"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:421
+msgid "Apply"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:415
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:221
+#: admin/include/class.cf7-extensions-recomendation.php:284
+msgid "By "
+msgstr ""
+
+#: admin/admin-init.php:43 admin/admin-init.php:44
+msgid "Cf7 Conditional"
+msgstr ""
+
+#: admin/admin-init.php:34 admin/admin-init.php:35
+msgid "Cf7 DB"
+msgstr ""
+
+#: admin/admin-init.php:52 admin/admin-init.php:53
+msgid "Cf7 Redirection"
+msgstr ""
+
+#: admin/admin-init.php:139
+msgid "Conditional Field Options"
+msgstr ""
+
+#: admin/include/class.cf7-conditional.php:62
+msgid "Conditional Fields"
+msgstr ""
+
+#: admin/include/class.cf7-conditional.php:125
+#: admin/include/class.cf7-mailchimp-map.php:51
+#: admin/template/conditional-field-layout.php:9
+msgid "Conditional fields"
+msgstr ""
+
+#: admin/include/class.cf7-conditional.php:80
+msgid "Conditional fields Settings"
+msgstr ""
+
+#: admin/template/conditional-setting.php:11
+msgid "Conditional Ui Mode"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:69
+msgid "Contact form 7 drag and drop files upload."
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:101
+msgid "Contact Form 7 Widget For Elementor Page Builder"
+msgstr ""
+
+#: admin/include/class.cf7-post-list.php:49
+msgid "Contact Form List"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:26
+msgid "Custom URL"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:49
+msgid "Custom Url"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:244
+msgid "Date"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:217
+#: admin/include/class.cf7-form-data-list.php:226
+#: admin/include/class.cf7-form-data-list.php:298
+msgid "Delete"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:76
+msgid "Don't need to use <script> tag."
+msgstr ""
+
+#: admin/template/pro-feature-list.php:38
+msgid "Drad and Drop File Upload"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:69
+msgid "Drag & Drop File Upload: "
+msgstr ""
+
+#: admin/include/class.cf7-form-data-detail.php:73
+msgid "Email Information"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:17
+msgid "Email List"
+msgstr ""
+
+#: admin/template/conditional-setting.php:26
+msgid "Enable Conditional Field Animation to show and hide field."
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:31
+msgid "Enable Custom Url for Redirection."
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:70
+msgid "Enable Javascript action to fire a javascript function."
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:22
+msgid ""
+"Enable Redirection Option to redirect to any page after form submission."
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:61
+msgid "Enable the option to open the redirection page in a new tab."
+msgstr ""
+
+#: admin/template/conditional-field-layout.php:25
+msgid "equal"
+msgstr ""
+
+#: includes/class.cf7-extensions.php:142
+msgid ""
+"Error: Contact Form 7 version is too old. Extensions For CF7 is compatible "
+"from version 5.3 and above. Please update Contact Form 7."
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:130
+msgid "EverCompare"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:287
+msgid "Export CSV"
+msgstr ""
+
+#: admin/admin-init.php:70 admin/admin-init.php:71 admin/admin-init.php:186
+msgid "Extensions"
+msgstr ""
+
+#. Name of the plugin
+msgid "Extensions For CF7"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:272
+msgid "Filter"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:242
+msgid "Form Data"
+msgstr ""
+
+#: admin/include/class.cf7-post-list.php:53
+msgid "Form Name"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:243
+msgid "Form Title"
+msgstr ""
+
+#: admin/include/class.cf7-conditional.php:73
+msgid ""
+"Generate a fields_group tag to unite form elements that can be shown "
+"conditionally."
+msgstr ""
+
+#: admin/template/pro-feature-list.php:79
+msgid "Get Pro Now"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:80
+msgid "Get pro now"
+msgstr ""
+
+#: admin/template/conditional-field-layout.php:64
+msgid "Go To Conditional Settings"
+msgstr ""
+
+#: admin/admin-init.php:168 admin/template/conditional-setting.php:49
+msgid "Go To Contact Form 7 Editor"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:95
+msgid "Go To Redirection Setting"
+msgstr ""
+
+#: admin/template/conditional-field-layout.php:3
+msgid "Go To Text mode"
+msgstr ""
+
+#. Author of the plugin
+msgid "HasThemes"
+msgstr ""
+
+#: admin/admin-init.php:23 admin/admin-init.php:24
+msgid "HT Cf7 Extension"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:115
+msgid "HT Mega - Absolute Addons for Elementor Page Builder"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hasthemes.com/"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:90
+msgid ""
+"If you’re loving how our product has helped your business, please let the "
+"WordPress community know by"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:279
+msgid "Import CSV"
+msgstr ""
+
+#: admin/template/conditional-setting.php:33
+msgid ""
+"Input a positive integer value for animation in time. The values in "
+"milliseconds and it will be applied for each field. Default Value:250"
+msgstr ""
+
+#: admin/template/conditional-setting.php:40
+msgid ""
+"Input a positive integer value for animation out time. The values in "
+"milliseconds and it will be applied for each field. Default Value:250"
+msgstr ""
+
+#: admin/admin-init.php:162
+msgid ""
+"Input a positive integer value for the dalay of redirection. The values in "
+"milliseconds(Default:200)"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:52
+msgid "Input Cusrom Url Address."
+msgstr ""
+
+#: admin/template/fields-group-layout.php:22
+msgid "Insert Tag"
+msgstr ""
+
+#: includes/class.cf7-extensions.php:130
+msgid "Install Contact Form 7"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:198
+#: admin/include/class.cf7-extensions-recomendation.php:261
+msgid "Install Now"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:40
+msgid "Installing.."
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:87
+msgid "Invalid file.Please import a csv file"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-detail.php:128
+msgid "IP Address :"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:65
+msgid "Javascript Action"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:74
+msgid "Javascript Code"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:140
+msgid "JustTables"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:90
+msgid "leaving us a review on our WP repository"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:73
+msgid ""
+"Make the telephone input field more attractive with the list of country flag "
+"and dial codes."
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:230
+#: admin/include/class.cf7-extensions-recomendation.php:293
+msgid "More Details"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:145
+msgid "Multi Currency"
+msgstr ""
+
+#: admin/template/fields-group-layout.php:9
+msgid "Name"
+msgstr ""
+
+#: admin/template/conditional-setting.php:14
+msgid "Normal"
+msgstr ""
+
+#: admin/template/conditional-field-layout.php:26
+msgid "not equal"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:173
+msgid "Other Plugins"
+msgstr ""
+
+#: admin/include/class.cf7-redirection.php:51
+msgid "Please save your form first"
+msgstr ""
+
+#: admin/include/class.cf7-conditional.php:126
+msgid "Please save your form first before adding condition."
+msgstr ""
+
+#: admin/include/class.cf7-mailchimp-map.php:52
+msgid "Please save your form first."
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:55
+msgid "Plugin Not Found"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:75
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:6
+msgid "Popup Form Response"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:72
+msgid "Popup Form Response: "
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:120
+msgid "QuickSwish"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:87
+msgid "Rating icon"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:169
+msgid "Recomendation"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:24
+#: admin/include/class.cf7-extensions-recomendation.php:25
+#: admin/include/class.cf7-extensions-recomendation.php:172
+msgid "Recommendation"
+msgstr ""
+
+#: admin/include/class.cf7-redirection.php:37
+msgid "Redirect Actions"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:56
+msgid "Redirect to New Tab"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:17
+msgid "Redirection"
+msgstr ""
+
+#: admin/admin-init.php:159
+msgid "Redirection Delay"
+msgstr ""
+
+#: admin/include/class.cf7-redirection.php:50
+#: admin/template/redierect-options-layout.php:13
+msgid "Redirection Options"
+msgstr ""
+
+#: admin/admin-init.php:149
+msgid "Redirection Setting"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-detail.php:122
+msgid "Referer :"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:14
+msgid "Repeater Field"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:71
+msgid "Repeater Field allows creating one or more field dynamically"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:71
+msgid "Repeater Field: "
+msgstr ""
+
+#: admin/template/pro-feature-list.php:72
+msgid ""
+"Replace your validation and success messages into beautiful popup message to "
+"attract visitors."
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:35
+msgid "Select a page"
+msgstr ""
+
+#: admin/template/conditional-setting.php:17
+msgid "Set the Conditional Ui mode.(Default:Normal)"
+msgstr ""
+
+#: admin/admin-init.php:61 admin/admin-init.php:62 admin/admin-init.php:176
+msgid "Settings"
+msgstr ""
+
+#: admin/template/conditional-field-layout.php:13
+msgid "Show"
+msgstr ""
+
+#: admin/include/class.cf7-post-list.php:54
+msgid "Submission Count"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-detail.php:117
+msgid "Submission Details"
+msgstr ""
+
+#: admin/include/class.cf7-form-data-list.php:198
+msgid "Successfully Imported CSV File"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:74
+msgid ""
+"Take permission form the user to save the form submission into database."
+msgstr ""
+
+#: admin/template/conditional-setting.php:15
+msgid "Text Mode"
+msgstr ""
+
+#: admin/template/redierect-options-layout.php:78
+msgid ""
+"This options for developer only.If the javascript action doesn't work after "
+"form submission, it means You have a problem with your code."
+msgstr ""
+
+#: admin/template/pro-feature-list.php:70
+msgid "Trigger error if a field is already submitted"
+msgstr ""
+
+#. Description of the plugin
+msgid "Valuable Extensions for Contact Form 7."
+msgstr ""
+
+#: admin/template/pro-feature-list.php:90
+msgid "Which will motivate us a lot."
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:135
+msgid "Whols"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:125
+msgid "WishSuite"
+msgstr ""
+
+#: admin/template/pro-feature-list.php:61
+msgid "WooLentor"
+msgstr ""
+
+#: admin/include/class.cf7-extensions-recomendation.php:110
+msgid "WooLentor - WooCommerce Elementor Addons + Builder"
+msgstr ""

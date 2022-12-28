@@ -1,0 +1,384 @@
+/****** image should be a single colour ******/
+/*.ms_player-style-one .knob-container .knob-wrapper-outer .knob-wrapper .knob.d2:after{*/
+/*    border-right-color: #3bc8e7;*/
+/*}*/
+/*.ms_nav_wrapper ul > li.menu-item > a{*/
+/*    color: #ffffff ;*/
+/*}*/
+/*.foo_sharing ul li a {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
+/****** queue icon center on close *******/
+/*.close_player >.ms_player_close > i{*/
+/*    top: 7px;*/
+/*}*/
+/****** upload image text center *******/
+/*a.ms_btn.up_image_upload {*/
+/*    line-height: 30px ;*/
+/*}*/
+/****** track upload page/ album upload *******/
+/*.beatswipe_profilepage .ms_upload_box a.ms_btn.up_artists_image{*/
+/*    top: 29px;*/
+/*}*/
+/*a.ms_btn.up_image_upload {*/
+/*    top: 31px ;*/
+/*}*/
+/****** natrax_new/darkversion- css *******/
+/****** queue icon center on close *******/
+/*.ms_player_wrapper.ms_player-style-two.close_player>.ms_player_close > i{*/
+/*    top: 0px;*/
+/*}*/
+/*.ms_player-style-two .knob-container .knob-wrapper-outer .knob-wrapper .knob.d2:after{*/
+/*    border-right-color: #ff553e;*/
+/*}*/
+/*span.icon.fa.fa-shopping-cart {*/
+/*    color: #ff553e;*/
+/*}*/
+/*.slider_nav_next {*/
+/*    left: -53px ;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
+/*.slider_nav_prev{*/
+/*    right: -53px ;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
+/****** natrax_new/lightversion- css *******/
+/****** blog page font color should not be change *******/
+/*.ms_nav_wrapper ul > li#menu-item-2124 >ul >li > a > span.menu-image-title{*/
+/*    color: #fff ;*/
+/*}*/
+/* track-favourites page slider buttons*/
+/*.slider_nav_next{*/
+/*    left: -30px;*/
+/*}*/
+/*.slider_nav_prev{*/
+/*    right: -30px;*/
+/*}*/
+/*.ms_main_wrapper.ms_main_wrapper_single{*/
+/*    overflow:hidden;*/
+/*}*/
+/*.album_inner_list {*/
+/*    padding-bottom: 60px;*/
+/*}*/
+/*.div-wrapper-style-two .ms_songslist_nav > li > a:after{*/
+/*    background: #ff553e;*/
+/*}*/
+/* shop page icons css */
+/*.single-product .more_option.open_option .opt_icon .icon_fav {*/
+/*    background-image: url(../images/svg/fav_icon.svg);*/
+/*}*/
+/*.single-product .more_option.open_option .opt_icon .icon_queue { */
+/*	background-image: url(../images/svg/add_icon.svg);*/
+/*}*/
+/*.single-product .more_option.open_option .opt_icon .icon_dwn {*/
+/*	background-image: url(../images/svg/dwn_icon.svg);*/
+/*}*/
+/*.single-product .more_option.open_option .opt_icon .icon_playlst {*/
+/*    background-image: url(../images/svg/add_ply_icon.svg);*/
+/*}*/
+/*.single-product .more_option.open_option .opt_icon .icon_share {*/
+/*	background-image: url(../images/svg/share_icon.svg);*/
+/*}*/
+/*ul.more_option li a .opt_icon .icon{*/
+/*    height:20px;*/
+/*    width:20px;*/
+/*}*/
+/*.mira_pur_tooltip {*/
+/*  position: relative;*/
+/*  display: inline-block;*/
+/*  border-bottom: 1px dotted black;*/
+/*}*/
+/*.mira_pur_tooltip .mira_pur_tooltiptext {*/
+/*  visibility: hidden;*/
+/*  width: 400px;*/
+/*  background-color: black;*/
+/*  color: #fff;*/
+/*  text-align: center;*/
+/*  border-radius: 6px;*/
+/*  padding: 12px 0;*/
+/*  position: absolute;*/
+/*  z-index: 1;*/
+/*}*/
+/*.mira_pur_tooltip:hover .mira_pur_tooltiptext {*/
+/*  visibility: visible;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li{*/
+/*    text-align:left;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(2) {flex-basis: 10%;}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(3) {flex-basis: 15%;}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(4) {flex-basis: 10%;}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(5) {flex-basis: 10%;}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(6) {flex-basis: 20%;}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(7) {flex-basis: 20%;}*/
+/* responsive design*/
+/*@media(max-width:1440px){*/
+/*    ul.more_option li a .opt_icon {*/
+/*    padding-right: 0px;*/
+/*}*/
+/*}*/
+/*@media(max-width:1200px){*/
+/*.ms_main_wrapper.ms_blog_temp {*/
+/*    padding-left: 100px;*/
+/*}*/
+/*.ms_admin_name span.ms_pro_name {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
+/* .mira_pur_tooltip .mira_pur_tooltiptext{*/
+/*    max-width: 300px;*/
+/*}*/
+/*}*/
+/*@media (min-width:768px) and (max-width:900px){*/
+/*    .mira_pur_tooltip .mira_pur_tooltiptext{*/
+/*        top: 60px;*/
+/*        right: 0;*/
+/*    }*/
+/*}*/
+/*@media (min-width:472px) and (max-width:675px){*/
+/*    .mira_pur_tooltip .mira_pur_tooltiptext{*/
+/*        top: 45px;*/
+/*        right: 0;*/
+/*    }*/
+/*}*/
+/*@media(max-width:1024px){*/
+/*    .ms_main_wrapper {*/
+/*    padding-left: 100px;*/
+/*}*/
+/*.ms_content_wrapper{*/
+/*    margin-right:60px;*/
+/*}*/
+/* .mira_pur_tooltip .mira_pur_tooltiptext{*/
+/*    max-width: 150px;*/
+/*}*/
+/*}*/
+/*@media(max-width:992px){*/
+/*.ms_top_search button.search-submit{*/
+/*    padding: 9px;*/
+/*}*/
+/*}*/
+
+/*@media(max-width:991px){*/
+/*.ms_main_wrapper.ms_blog_temp {*/
+/*    padding-left: 0px;*/
+/*}*/
+/*.ms_main_wrapper {*/
+/*    padding-left: 0px;*/
+/*}*/
+/*.slider_nav_next {*/
+/*    left: -60px ;}*/
+/*.slider_nav_prev{*/
+/*    right: -60px ;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(6){*/
+/*    max-width: 90px;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(7){*/
+/*    width: auto;*/
+/*    max-width: 200px;*/
+/*}*/
+/*.album_list_wrapper span.opt_icon{*/
+/*    display:block;*/
+/*}*/
+/*}*/
+/*@media(max-width:768px){*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(7){*/
+/*    max-width: 150px;*/
+/*}*/
+/*}*/
+/*@media(max-width:767px){*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(7){*/
+/*    max-width: 100px;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(6){*/
+/*    max-width: 100px ;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(3) {*/
+/*    flex-basis: 20%;*/
+/*}*/
+/*}*/
+/*@media(max-width:480px){*/
+/*.ms_profile .ms_top_right {*/
+/*    width: 100%;*/
+/*    padding-top: 10px;*/
+/*}*/
+/*    .ms_content_wrapper{*/
+/*       padding: 0px 50px;*/
+/*       margin-right:0px;*/
+/*    }*/
+/*.ms_nav_wrapper{*/
+/*    bottom:80px;*/
+/*}*/
+/*.mira_pur_tooltip{*/
+/*    width:100%;*/
+/*}*/
+/*.ms_add_cart, .ms_add_cart_link{*/
+/*    margin-bottom:0px;*/
+/*}*/
+/*a.button.add_to_cart_button, .ms_add_cart_link a{*/
+/*    height:35px;*/
+/*    width:35px;*/
+/*    display:flex;*/
+/*    align-items:center;*/
+/*    justify-content:center;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(5) {*/
+/*    flex-basis: 26% ;*/
+/*}*/
+/*}*/
+/*@media (min-width:410px) and (max-width:447px){*/
+/*    a.ms_btn.bynow_btn {*/
+/*    margin-top: 10px;*/
+/*}*/
+/*.mira_pur_tooltip .mira_pur_tooltiptext{*/
+/*    width: 160px;*/
+/*}*/
+/*}*/
+/*@media (min-width:415px) and (max-width:480px){*/
+/*    .mira_pur_tooltip{*/
+/*         top:10px;*/
+/*    }*/
+/*}*/
+/*@media(max-width:375px){*/
+/*    .jp-time-holder{*/
+/*        font-size: 10px;*/
+/*    }*/
+/*    .woocommerce ul.products li.product:hover a.button.add_to_cart_button, .woocommerce ul.products li.product:hover .ms_add_cart_link a{*/
+/*        margin-bottom:6px;*/
+/*    }*/
+/*    .album_list_wrapper>ul>li:first-child {*/
+/*    flex-basis: 10%;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(3) {*/
+/*    flex-basis: 25%;*/
+/*}*/
+/*.album_list_wrapper>ul>li:first-child {*/
+/*    flex-basis: 10%;*/
+/*}*/
+/*.album_list_wrapper>ul>li:first-child {*/
+/*    flex-basis: 10% ;*/
+/*}*/
+/*.album_list_wrapper>ul>li:first-child {*/
+/*    flex-basis: 10% ;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(2) {*/
+/*    flex-basis: 35% ;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(3) {*/
+/*    flex-basis: 27% ;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(7) {*/
+/*    max-width: 60px;*/
+/*}*/
+/*a.songslist_moreicon.download_2, .ms_download_inner .album_list_wrapper>ul>li:nth-child(6) a.songslist_moreicon.download_2, a.remove_free_music{*/
+/*    left:10%;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(6) {*/
+/*    max-width: 50px ;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(5){*/
+/*    padding-left:10px;*/
+/*     flex-basis: 50% ;*/
+/*} */
+/*}*/
+/*@media(max-width:320px){*/
+/*.jp-gui.jp-interface.flex-wrap {*/
+/*    left: 27%;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li{*/
+/*    font-size:14px;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(5) {*/
+/*    flex-basis: 70% ;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(7){*/
+/*    padding-left: 4px;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(2) {*/
+/*    flex-basis: 40% ;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(3) {*/
+/*    flex-basis: 37% ;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(4) {*/
+/*    flex-basis: 25%;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(5) span.ms_songslist_like .favourite_music span.opt_icon{*/
+/*    padding-left: 50px;    */
+/*}*/
+/*}*/
+/*@media(max-width:280px){*/
+/*   .jp-time-holder{*/
+/*        font-size: 9px;*/
+/*    } */
+/*    .jp-type-playlist{*/
+/*        right: 0px;*/
+/*        padding-top: 0px;*/
+/*    }*/
+/*    .ms_header.ms_profile {*/
+/*        padding: 10px 10px 0px;*/
+/*    }*/
+/*}*/
+/*@media(max-width:1600px){*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(4) {*/
+/*    flex-basis: 7%;*/
+/*}*/
+/*}*/
+/*@media(max-width:1400px){*/
+/*.album_list_wrapper>ul>li:first-child {*/
+/*    flex-basis: 4%;*/
+/*}*/
+/*}*/
+/*@media(max-width:1200px){*/
+/*a.remove_free_music{*/
+/*    left: 15% ; */
+/*}*/
+/*}*/
+/*@media(max-width:1199px){*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(6){*/
+/*    width:10px;*/
+/*}*/
+/*}*/
+/*@media(max-width:1024px){*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(6) {*/
+/*    flex-basis: 18%;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(6){*/
+/*    width: auto;*/
+/*    max-width: 150px;*/
+/*}*/
+/*a.remove_free_music{*/
+/*    left: 40% ;*/
+/*    right: auto;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(5) {*/
+/*    flex-basis: 20%;*/
+/*}*/
+/*.ms_download_inner .album_list_wrapper>ul>li:nth-child(4) {*/
+/*    flex-basis: 15%;*/
+/*}*/
+/*}*/
+/*@media(max-width:992px){*/
+/*a.songslist_moreicon.download_2, .ms_download_inner .album_list_wrapper>ul>li:nth-child(6) a.songslist_moreicon.download_2, a.remove_free_music{*/
+/*    left:45%;*/
+/*}*/
+/*}*/
+/*a.songslist_moreicon.download_2 span svg, a.remove_free_music span.list_close svg {*/
+/*    fill: #3bc8e7;*/
+/*}*/
+/*a.songslist_moreicon.download_2, .ms_download_inner .album_list_wrapper>ul>li:nth-child(6) a.songslist_moreicon.download_2, a.remove_free_music {*/
+/*    top: 60px;*/
+/*    left: 50%;*/
+/*}*/
+/*ul.ms_common_dropdown.ms_downlod_list.open {*/
+/*    top: 55%;*/
+/*    right: 42%;*/
+/*    left: auto;*/
+/*}*/

@@ -1,0 +1,707 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Miraculous Core Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-31 05:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5"
+
+#. Author URI of the plugin
+msgid "http://themeforest.net/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kamleshyadav"
+msgstr ""
+
+#. Name of the plugin
+msgid "Miraculous Core Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin create custom post type and some meta option and Shortcode ."
+msgstr ""
+
+#: index.php:662
+msgid "Search for:"
+msgstr ""
+
+#: index.php:663
+msgid "Search Music Here.."
+msgstr ""
+
+#: index.php:714
+msgid "languages"
+msgstr ""
+
+#: index.php:782
+msgid "Logout"
+msgstr ""
+
+#: index.php:879
+msgid "Register / Sign Up"
+msgstr ""
+
+#: index.php:883
+msgid "Enter Username"
+msgstr ""
+
+#: index.php:889
+msgid "Enter Your Name"
+msgstr ""
+
+#: index.php:898
+msgid "User"
+msgstr ""
+
+#: index.php:899
+msgid "Subscriber"
+msgstr ""
+
+#: index.php:903
+msgid "Enter Your Email"
+msgstr ""
+
+#: index.php:910
+msgid "Enter Password"
+msgstr ""
+
+#: index.php:917
+msgid "Confirm Password"
+msgstr ""
+
+#: index.php:929
+msgid "Already Have An Account?"
+msgstr ""
+
+#: index.php:930
+msgid "login here"
+msgstr ""
+
+#: index.php:923
+msgid "register now"
+msgstr ""
+
+#: index.php:953
+msgid "login / Sign in"
+msgstr ""
+
+#: index.php:957
+msgid "Enter Your Email or Username"
+msgstr ""
+
+#: index.php:969
+msgid "Keep me signed in"
+msgstr ""
+
+#: index.php:974
+msgid "login now"
+msgstr ""
+
+#: index.php:980
+msgid "Don't Have An Account?"
+msgstr ""
+
+#: index.php:981
+msgid "register here"
+msgstr ""
+
+#: index.php:1005
+msgid "language selection"
+msgstr ""
+
+#: index.php:1006
+msgid "Please select the language(s) of the music you listen to."
+msgstr ""
+
+#: index.php:1036
+msgid "There is not have any language added."
+msgstr ""
+
+#: index.php:1040
+msgid "apply"
+msgstr ""
+
+#: index.php:1070
+msgid "Playlist"
+msgstr ""
+
+#: index.php:1092, 1923, 2162,2289
+msgid "add to playlist"
+msgstr ""
+
+#: index.php:1093
+msgid "Loading"
+msgstr ""
+
+#: index.php:1094, 1100
+msgid "create playlist"
+msgstr ""
+
+#: index.php:1097
+msgid "You have not created any playlist please create playlist."
+msgstr ""
+
+#: index.php:1133
+msgid "Create New Playlist"
+msgstr ""
+
+#: index.php:1134
+msgid "Playlist Name"
+msgstr ""
+
+#: index.php:1137
+msgid "create"
+msgstr ""
+
+#: index.php:1164
+msgid "Share With"
+msgstr ""
+
+#: index.php:1212
+msgid "download now"
+msgstr ""
+
+#: index.php:1216, 1899, 2138
+#: extensions/shortcodes/shortcodes/artists/views/view.php:121,193
+#: extensions/shortcodes/shortcodes/history/views/view.php:81
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:134
+#: extensions/shortcodes/shortcodes/musics/views/view.php:143, 217, 349
+#: extensions/shortcodes/shortcodes/product/views/view.php:82,196
+#: extensions/shortcodes/shortcodes/radio/views/view.php:95,177,278
+#: extensions/shortcodes/shortcodes/recently-played/views/view.php:77,162
+msgid "Favourites"
+msgstr ""
+
+#: index.php:1220, 1711
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:143
+#: extensions/shortcodes/shortcodes/history/views/view.php:93
+#: extensions/shortcodes/shortcodes/me-album/views/view.php:137
+#: extensions/shortcodes/shortcodes/musics/views/view.php:146, 220,352
+#: extensions/shortcodes/shortcodes/product/views/view.php:84,198
+#: extensions/shortcodes/shortcodes/recently-played/views/view.php:89,165
+msgid "Add To Playlist"
+msgstr ""
+
+#: index.php:1224, 1719, 1931, 2046, 1476, 1606, 1817, 2170, 2294
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:151, 313, 385
+#: extensions/shortcodes/shortcodes/history/views/view.php:98
+#: extensions/shortcodes/shortcodes/me-album/views/view.php:85, 138
+#: extensions/shortcodes/shortcodes/me-products/views/view.php:80
+#: extensions/shortcodes/shortcodes/musics/views/view.php:147,221,353
+#: extensions/shortcodes/shortcodes/product/views/view.php:85,199
+#: extensions/shortcodes/shortcodes/recently-played/views/view.php:94,166
+msgid "Share"
+msgstr ""
+
+#: index.php:1237, 1243
+msgid "queue"
+msgstr ""
+
+#: index.php:1252
+msgid "clear"
+msgstr ""
+
+#: index.php:1255, 1258
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:77
+msgid "save"
+msgstr ""
+
+#: index.php:1335
+msgid "Are you sure you want to clear your queue?"
+msgstr ""
+
+#: index.php:1338
+msgid "clear all"
+msgstr ""
+
+#: index.php:1340
+msgid "cancel"
+msgstr ""
+
+#: index.php:1469, 1580, 1602, 1695, 1907, 2009, 2038, 2146, 2252, 2278
+#: extensions/shortcodes/shortcodes/artists/views/view.php:127,201
+#: extensions/shortcodes/shortcodes/banner/views/view.php:81, 109
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:127, 307
+#: extensions/shortcodes/shortcodes/history/views/view.php:84
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:135
+#: extensions/shortcodes/shortcodes/musics/views/view.php:144, 218, 350
+#: extensions/shortcodes/shortcodes/product/views/view.php:83,197
+#: extensions/shortcodes/shortcodes/radio/views/view.php:101,180,282
+#: extensions/shortcodes/shortcodes/recently-played/views/view.php:80,163
+msgid "Add To Queue"
+msgstr ""
+
+#: index.php:1561
+msgid "By - %s"
+msgstr ""
+
+#: index.php:1564
+msgid "%s song | %s"
+msgstr ""
+
+#: index.php:1565
+msgid "Released %s  | %s"
+msgstr ""
+
+#: index.php:1571, 2000, 1790
+msgid "Play All"
+msgstr ""
+
+#: index.php:1574, 1793, 2003
+msgid "Pause"
+msgstr ""
+
+#: index.php:1617, 1828, 2056
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:57
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:58
+msgid "#"
+msgstr ""
+
+#: index.php:1618, 1829, 2057
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:58
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:59
+msgid "Song Title"
+msgstr ""
+
+#: index.php:1619, 1830, 2058
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:59
+#: extensions/shortcodes/shortcodes/me-artists/views/view.php:49
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:60
+msgid "Artist"
+msgstr ""
+
+#: index.php:1620, 1831, 2059
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:63
+msgid "Duration"
+msgstr ""
+
+#: index.php:1621, 1832, 2060
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:61
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:61
+msgid "Price"
+msgstr ""
+
+#: index.php:1622, 1833, 2061
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:65
+#: extensions/shortcodes/shortcodes/me-album/views/view.php:112
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:62,152,154
+#: extensions/shortcodes/shortcodes/me-products/views/view.php:118
+msgid "More"
+msgstr ""
+
+#: index.php:1664, 1876, 2119
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:109
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:95
+msgid "Free"
+msgstr ""
+
+#: index.php:1703, 1915, 2154, 2283
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:135
+#: extensions/shortcodes/shortcodes/history/views/view.php:88
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:136
+#: extensions/shortcodes/shortcodes/musics/views/view.php:145, 219,351
+#: extensions/shortcodes/shortcodes/radio/views/view.php:183
+#: extensions/shortcodes/shortcodes/recently-played/views/view.php:84,164
+msgid "Download Now"
+msgstr ""
+
+#: index.php:2243
+msgid "Play"
+msgstr ""
+
+#: index.php:2358
+msgid "ms_menuopen_style"
+msgstr ""
+
+#: miraculous-widget.php:217
+msgid "follow us :"
+msgstr ""
+
+#: miraculous-widget.php:599
+msgid "Tracks"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/about-me/views/view.php:27
+msgid "User Name"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/about-me/views/view.php:31
+msgid "User Email"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/about-me/views/view.php:35
+msgid "User Bank Details"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/about-me/views/view.php:39
+msgid "Update your profile"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/about-me/views/view.php:62
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:177
+#: extensions/shortcodes/shortcodes/me-album/views/view.php:127
+#: extensions/shortcodes/shortcodes/me-products/views/view.php:142
+msgid "No data available please complete your profile"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/about-me/views/view.php:65
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:180
+#: extensions/shortcodes/shortcodes/me-album/views/view.php:130
+#: extensions/shortcodes/shortcodes/me-products/views/view.php:145
+msgid "No data available"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:26
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:28
+msgid "Album Title"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:27
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:29
+msgid "Enter Album Title"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:30
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:32
+msgid "Release Date"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:31
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:33
+msgid "Enter Album Release Date"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:34
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:36
+msgid "Album Description"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:35
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:37
+msgid "Enter Album Description"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:38
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:40
+msgid "Album Language"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:52
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:54
+msgid "Album Type"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:65
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:67
+msgid "Album Cover Image Upload"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:70
+#: extensions/shortcodes/shortcodes/updatealbum/views/view.php:72
+msgid "Select Audio"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:185
+#: extensions/shortcodes/shortcodes/productsupload/views/view.php:180
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:182
+msgid "Need to purchase plan to upload music"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/albumupload/views/view.php:186
+#: extensions/shortcodes/shortcodes/productsupload/views/view.php:181
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:183
+msgid "Click Here"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/banner/views/view.php:78, 106
+msgid "Listen Now"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/edit-profile/views/view.php:32
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:36
+msgid "Your Name *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/edit-profile/views/view.php:36
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:40
+msgid "Your Email *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/edit-profile/views/view.php:40
+msgid "Your Bank Details *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/edit-profile/views/view.php:44
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:62
+msgid "Change Password"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/edit-profile/views/view.php:48
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:66
+msgid "New Password *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/edit-profile/views/view.php:52
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:70
+msgid "Confirm Password *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/fav-music/views/view.php:67
+#: extensions/shortcodes/shortcodes/history/views/view.php:103
+#: extensions/shortcodes/shortcodes/recently-played/views/view.php:99
+msgid "remove"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/genres/views/view.php:35, 64, 93, 120, 148,
+#: 181, 206, 233, 263, 293
+msgid "view songs"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/logouts/views/view.php:3
+msgid "Logout Here"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/manage_pricing_plan/views/view.php:35
+msgid "Subscription Plans"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/manage_pricing_plan/views/view.php:104, 122
+msgid "buy now"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/manage_pricing_plan/views/view.php:144
+msgid "Account Overview"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/manage_pricing_plan/views/view.php:184
+msgid "You have not subscribed any plan yet."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/me-album/views/view.php:73
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:127
+#: extensions/shortcodes/shortcodes/me-products/views/view.php:69
+msgid "Delete"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/me-album/views/view.php:77
+#: extensions/shortcodes/shortcodes/me-audio/views/view.php:122
+#: extensions/shortcodes/shortcodes/me-products/views/view.php:73
+msgid "Edit"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/me-artists/views/view.php:62
+msgid "No Artists found."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:16
+msgid "Your Earning"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:20, 155
+msgid "Order"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:21,156
+msgid "Date"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:22,157
+msgid "Status"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:23,158
+msgid "Total"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:24,159
+msgid "Earning"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:89, 223
+msgid "No Allow"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:112
+msgid "Total:"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:128, 141
+msgid "Payment Request"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:122
+msgid "Request Panding"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:142
+msgid "Yes"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/my-earning/views/view.php:152
+msgid "Your Withdrawal"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/needlogin/views/view.php:21
+msgid "register/login"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/productsupload/views/view.php:24
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:18
+msgid "Product Name"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/productsupload/views/view.php:28
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:22
+msgid "Product Regular Price"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/productsupload/views/view.php:36
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:30
+msgid "Product Description"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/productsupload/views/view.php:40
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:34
+msgid "Product Image Upload"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/productsupload/views/view.php:46
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:40
+msgid "Product Dowenload Zip File Upload"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/productsupload/views/view.php:53
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:47
+msgid "Product Sample File Upload"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/productsupload/views/view.php:32
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:26
+msgid "Product Sale price"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:44
+msgid "Your Profile Images *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:49
+msgid "Your Profile Cover Images *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:54
+msgid "Your Address *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/update-profile/views/view.php:58
+msgid "About You*"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateaudio/views/view.php:55
+msgid "Audio Cover Image"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateaudio/views/view.php:60
+msgctxt "Upload Audio"
+msgid "Audio Upload*"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateaudio/views/view.php:65
+msgid "Aduio Name *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateaudio/views/view.php:66
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:92
+msgid "Dream Your Moments"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateaudio/views/view.php:72
+msgid "Artist’s Name"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateaudio/views/view.php:73
+msgid "Enter Artist’s Name"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateaudio/views/view.php:76,78
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:105
+msgid "Select Language"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateaudio/views/view.php:87
+msgid "Select Music Type"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateaudio/views/view.php:100
+msgid "Update Now"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:19
+msgid "Enter Product Name"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:23
+msgid "Enter Regular Price"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:27
+msgid "Enter Sale Price"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:31
+msgid "Enter Product Description"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/updateproducts/views/view.php:55
+msgid "Update"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:91
+msgid "Track Name *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:126
+msgid "Upload Image"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:132
+msgid "reset"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:149
+msgid "Artist Name"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:150
+msgid "Ava Cornish"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:154
+msgid "Artist Image *"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:164
+msgid "Choose from Existing"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:169
+msgid "Next"
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:192
+msgid "You have not permission to access this page."
+msgstr ""
+
+#: extensions/shortcodes/shortcodes/upload_musics/views/view.php:193
+msgid "Go Back"
+msgstr ""
